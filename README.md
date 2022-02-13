@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React, .NET 6, C# Query, Database**
 
-- 👨‍💻 All of my projects are available at [Privat share, or in my Git](Privat share, or in my Git)
+- 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
 - 📝 I regularly write articles on [Programming/Codding](Programming/Codding)
 
