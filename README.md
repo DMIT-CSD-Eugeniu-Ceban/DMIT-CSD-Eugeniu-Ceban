@@ -1,10 +1,8 @@
-![MasterHead]
 <p align="center">
   <img alt="title" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Eugeniu Ceban</h1>
+<h1 align="center">Hi 🤝, I'm Eugeniu Ceban</h1>
 <h3 align="center">A passionate full-stack developer from Edmonton, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmit-csd-eugeniu-ceban&label=Profile%20views&color=0e75b6&style=flat" alt="dmit-csd-eugeniu-ceban" /> </p>
