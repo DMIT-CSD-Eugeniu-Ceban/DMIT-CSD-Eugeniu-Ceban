@@ -1,7 +1,8 @@
-![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+
 <p align="center">
-  <img width="600" height="200" alt="title" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+  ![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 </p>
+<img width="600" height="200" alt="title" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Eugeniu Ceban</h1>
 <h3 align="center">A passionate full-stack developer from Edmonton, Canada</h3>
