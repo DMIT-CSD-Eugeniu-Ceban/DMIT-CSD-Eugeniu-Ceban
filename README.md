@@ -1,4 +1,4 @@
-![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+![MasterHead]
 <p align="center">
   <img alt="title" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 </p>
