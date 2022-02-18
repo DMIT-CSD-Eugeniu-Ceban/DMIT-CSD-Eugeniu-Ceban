@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)
+![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Eugeniu Ceban</h1>
 <h3 align="center">A passionate full-stack developer from Edmonton, Canada</h3>
 
