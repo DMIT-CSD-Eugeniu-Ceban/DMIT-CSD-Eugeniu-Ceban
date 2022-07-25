@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [Programming/Codding](Programming/Codding)
 
-- 💬 Ask me about **HTML, CSS, SASS, JS, .NET5, Bootstrap, C#, C++**
+- 💬 Ask me about **HTML, CSS, SASS, JS, .NET5, Bootstrap, C#, C++, Java**
 
 - 📫 How to reach me **eugeniu.ceban.cntdo@gmail.com**
 
