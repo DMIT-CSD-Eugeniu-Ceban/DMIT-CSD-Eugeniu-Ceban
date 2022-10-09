@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🔭 I’m currently working on **School Projects**
+- 🔭 I’m currently working on **Capstone Project**
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
