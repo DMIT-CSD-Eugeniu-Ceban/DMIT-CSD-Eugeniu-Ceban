@@ -13,15 +13,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🔭 I’m currently working on **Capstone Project**
+- 🔭 I’m currently working on **Back-End Projects**
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
 - 📝 I regularly write articles on [Programming/Codding](Programming/Codding)
 
-- 💬 Ask me about **HTML, CSS, SASS, JS, .NET6, Bootstrap, C#, C++, Java, Flutter, Dart**
+- 💬 Ask me about **HTML, CSS, SASS, JS, .NET6, Bootstrap, C#, C++, Java, Flutter, Dart, PHP**
 
 - 📫 How to reach me **eugeniu.ceban.cntdo@gmail.com**
 
