@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [Programming/Codding](Programming/Codding)
 
-- 💬 Ask me about **HTML, CSS, SASS, JS, ASP.NET Core MVC, Bootstrap, C#, C++, Java, Flutter, Dart, PHP**
+- 💬 Ask me about **HTML, CSS, SASS, JS, ASP.NET Core MVC, Bootstrap, C#, C++, Java, Flutter, Dart, PHP, React**
 
 - 📫 How to reach me **eugeniu.ceban.cntdo@gmail.com**
 
