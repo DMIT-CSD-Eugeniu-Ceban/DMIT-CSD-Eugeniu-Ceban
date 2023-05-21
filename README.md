@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Back-End Projects**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
