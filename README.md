@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [coming soon](coming soon)
 
-- ⚡ Fun fact **"I know that I know nothing"**
+- ⚡ Fun fact **"Permanently feed your brain with knowledge."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
