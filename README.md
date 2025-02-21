@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
-- 📝 I regularly resolve problems in [Programming/Codding]([Programming/Codding](https://leetcode.com/u/casper85/))
+- 📝 I regularly resolve problems in [Programming/Codding]([Programming/Codding])
 
 - 💬 Ask me about **JavaScript, Java, Python, C#, PHP, Database**
 
