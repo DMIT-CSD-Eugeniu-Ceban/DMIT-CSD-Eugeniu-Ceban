@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **eugeniu.ceban.cntdo@gmail.com**
 
-- 📄 Know about my experiences [**Experience**](https://www.linkedin.com/in/eugeniu-ceban/).
+- 📄 Know about my experiences [**here**](https://www.linkedin.com/in/eugeniu-ceban/).
 
 - ⚡ Fun fact **"Permanently feed your brain with knowledge."**
 
