@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
-- 📝 I regularly resolve problems in [Programming/Codding](<a href="https://www.linkedin.com/in/eugeniu-ceban/" target="blank">)
+- 📝 I regularly resolve problems in <a href="https://www.linkedin.com/in/eugeniu-ceban/" target="_blank">Programming/Coding</a>
 
 - 💬 Ask me about **JavaScript, Java, Python, C#, PHP, Database**
 
