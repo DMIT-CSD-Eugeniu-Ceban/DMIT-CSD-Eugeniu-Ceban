@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 🤝, I'm Eugeniu Ceban</h1>
-<h3 align="center">A passionate full-stack developer from Edmonton, Canada</h3>
+<h3 align="center">A passionate Software Developer from Edmonton, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmit-csd-eugeniu-ceban&label=Profile%20views&color=0e75b6&style=flat" alt="dmit-csd-eugeniu-ceban" /> </p>
 
@@ -13,15 +13,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🔭 I’m currently working on **Back-End Projects**
+- 🔭 I’m currently working on **Application Project & robotics**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Cloud & AL/ML**
 
 - 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
-- 📝 I regularly write articles on [Programming/Codding](Programming/Codding)
+- 📝 I regularly resolve problems in [Programming/Codding](Programming/Codding)
 
-- 💬 Ask me about **HTML, CSS, SASS, JS, ASP.NET Core MVC, Bootstrap, C#, C++, Java, Flutter, Dart, PHP, React**
+- 💬 Ask me about **JavaScript, Java, Python, C#, PHP, Database**
 
 - 📫 How to reach me **eugeniu.ceban.cntdo@gmail.com**
 
