@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
-- 📝 I regularly resolve problems in <a href="https://leetcode.com/u/casper85" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" style="vertical-align:middle;"> LeetCode</a>
+- 📝 I regularly resolve problems in <a href="https://leetcode.com/u/casper85" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="25" style="vertical-align:middle;">LeetCode</a>
 
 - 💬 Ask me about **JavaScript, Java, Python, C#, PHP, Database**
 
