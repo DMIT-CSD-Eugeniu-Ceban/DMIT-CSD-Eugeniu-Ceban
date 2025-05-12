@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Application Project & robotics**
 
-- 🌱 I’m currently learning **Cloud,Automation Programming,  & AL/ML**
+- 🌱 I’m currently learning **Cloud, Automation Programming,  & AL/ML**
 
 - 👨‍💻 All of my projects are available at (Privat share, or in my Git)
 
